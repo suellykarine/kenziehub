@@ -1,0 +1,54 @@
+input {
+    height: 38px;
+    width: 250px;
+    margin: 37px;
+    border-radius: 5px;
+    color: rgb(105, 101, 101);
+    margin-left: -12px;
+}
+
+button {
+    padding: 10px;
+    margin: -28px;
+    border-radius: 5px;
+    background: pink;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+
+.container {
+    border: solid;
+    height: 150px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    margin-top: 51px;
+}
+
+.div-input {
+    height: 177px;
+    width: 422px;
+}
+
+.testediv {
+    margin-top: 530px;
+}
+
+.div-erros {
+    margin-left: -466px;
+    margin-bottom: 464px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h3 {
+    margin-top: -30px;
+    font-size: 12px;
+    font-weight: normal;
+    margin-left: -154px;
+}
