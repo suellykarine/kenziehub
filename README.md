@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
